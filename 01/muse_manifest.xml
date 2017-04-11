@@ -1,0 +1,22 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vietnd8.github.io" resolutions="1x" timestamp="1491878344767">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="402166290" ref="index"/>
+    <file name="master_a-master.css" crc="359030944" ref="san-pham:index"/>
+    <file name="san-pham.css" crc="3940976045" ref="san-pham"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:san-pham"/>
+    <file name="museutils.js" crc="531812214" ref="index:san-pham"/>
+    <file name="whatinput.js" crc="84559013" ref="index:san-pham"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:san-pham"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:san-pham"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:san-pham"/>
+  </folder>
+  <folder name="images">
+    <file name="12.jpg" crc="3808829417" seo="true" ref="index"/>
+    <file name="6.jpg" crc="4221934404" seo="true" ref="san-pham"/>
+  </folder>
+  <file name="index.html" crc="215711660" seo="true" mt="1491878215472" redirect="true"/>
+  <file name="san-pham.html" crc="4118443224" seo="true" mt="1491878330748" redirect="true"/>
+</manifest>
