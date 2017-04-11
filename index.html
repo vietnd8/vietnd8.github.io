@@ -10,8 +10,21 @@
  	<link rel="stylesheet" href="1.css">
 </head>
 <body >
+	<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.8&appId=277069766080082";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+
   <h1 class="text-xs-center display-2">
   	Web moi add san bootstrap
   </h1>
+
+
+  <div class="fb-comments" data-href="https://vietnd8.github.io" data-width="600" data-numposts="5"></div>
 </body>
 </html>
